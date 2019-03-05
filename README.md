@@ -17,3 +17,7 @@
 ### npm install --save systemjs@0.21.5
 
 ### Execute this command instead of just npm install --save systemjs@
+
+
+## ---- For Binding i.e. in Nampspace
+### tsc app.ts --outFile app.js
