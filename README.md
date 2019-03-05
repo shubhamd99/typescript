@@ -4,6 +4,7 @@
 ## tsc-init
 ## tsc --target es5 script.ts 
 ## tsc app.ts
+## tsc -w
 
 ## ------ Modules -------
 ### MUST READ - DON'T SKIP!
