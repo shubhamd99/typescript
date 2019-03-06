@@ -2,7 +2,7 @@
 
 ## npm install tsc-init -g
 ## tsc-init
-## tsc --target es5 script.ts 
+## tsc --target es5 script.ts -w
 ## tsc app.ts
 ## tsc -w
 
