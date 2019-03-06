@@ -24,3 +24,6 @@
 
 ## ---- For Binding i.e. in Nampspace
 ### tsc app.ts --outFile app.js
+
+## Web pack loader
+### npm install --save-dev webpack ts-loader
