@@ -6,6 +6,7 @@
 ## tsc --target es5 script.ts -w
 ## tsc app.ts
 ## tsc -w
+## npm install --save-dev @types/jquery
 
 ## ------ Modules -------
 ### MUST READ - DON'T SKIP!
