@@ -1,5 +1,6 @@
 # Typescript Basic's
 
+## npm install -g typescript
 ## npm install tsc-init -g
 ## tsc-init
 ## tsc --target es5 script.ts -w
